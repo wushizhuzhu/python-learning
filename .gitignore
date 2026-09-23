@@ -4,3 +4,10 @@
 *.png
 *.csv
 .ipynb_checkpoints/
+*.dat
+*.xlsx
+*.xls
+*.h5
+*.npy
+*.log
+mpl_cache/

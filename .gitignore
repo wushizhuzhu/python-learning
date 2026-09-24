@@ -11,3 +11,4 @@
 *.npy
 *.log
 mpl_cache/
+.vscode/
